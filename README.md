@@ -1,2 +1,2 @@
-# Introdu-o-ao-Ionic
-Primeiro app criado em Ionic (Angular, JavaScript)
+# App Ionic 
+Primeiro app criado em Ionic (Angular, JavaScript, TypeScript, HTML e scss)
